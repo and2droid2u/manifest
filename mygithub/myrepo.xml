@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="mygithub"
+          fetch="https://github.com/PixelExperience"
+          revision="beryllium" />
+
+  <!-- Below projects will be overwride -->
+  <!-- remove-project name="name" -->
+
+  <!-- My github  projects -->
+  <!-- project path="system/extras" name="system_extras" remote="beryllium" />
+
+</manifest>
